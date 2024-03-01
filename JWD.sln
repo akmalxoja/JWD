@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWD", "JWD\JWD.csproj", "{F4EB01FB-1652-4F0C-BAAC-AC632B505C7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSender.Aplication", "EmailSender.Aplication\EmailSender.Aplication.csproj", "{617152C5-7E7D-4213-86EB-E58882CF236D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4EB01FB-1652-4F0C-BAAC-AC632B505C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4EB01FB-1652-4F0C-BAAC-AC632B505C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4EB01FB-1652-4F0C-BAAC-AC632B505C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4EB01FB-1652-4F0C-BAAC-AC632B505C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{617152C5-7E7D-4213-86EB-E58882CF236D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617152C5-7E7D-4213-86EB-E58882CF236D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617152C5-7E7D-4213-86EB-E58882CF236D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617152C5-7E7D-4213-86EB-E58882CF236D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34E48F20-3F7C-4F64-A930-175CB9B36227}
+	EndGlobalSection
+EndGlobal

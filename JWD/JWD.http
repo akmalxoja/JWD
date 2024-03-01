@@ -1,0 +1,6 @@
+@JWD_HostAddress = http://localhost:5177
+
+GET {{JWD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
